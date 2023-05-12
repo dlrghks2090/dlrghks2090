@@ -3,7 +3,7 @@
 <br>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlrghks2090&vple-remake&layout=compact)](https://github.com/dlrghks2090/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlrghks2090&layout=compact)](https://github.com/dlrghks2090/github-readme-stats)
 
 
 
