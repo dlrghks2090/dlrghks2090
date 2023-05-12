@@ -3,7 +3,7 @@
 <br>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlrghks2090&layout=compact)](https://github.com/dlrghks2090/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlrghks2090&layout=compact">  <img src="https://github-readme-stats.vercel.app/api?username=dlrghks2090&show_icons=true">
 
 
 
