@@ -3,7 +3,8 @@
 <br>
 
 
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlrghks2090&langs_count=6&layout=compact">(https://github.com/dlrghks2090)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlrghks2090&layout=compact)](https://github.com/dlrghks2090/github-readme-stats)
+
 
 
 [![Solved.ac
