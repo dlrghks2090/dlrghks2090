@@ -1,8 +1,7 @@
+2023.04~현재         디지털하나로 교육 이수중
 
+2022.01~2022.11      42Seoul과정 진행
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=dlrghks2090)](https://solved.ac/dlrghks2090)
 <br>
-
-
-<img src="https://img.shields.io/badge/Python-6666FF?style=flat-square&logo=firebase&logoColor=white"/> <img src="https://img.shields.io/badge/Java-CC3333?style=flat-square&logo=firebase&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-009900?style=flat-square&logo=firebase&logoColor=white"/>
